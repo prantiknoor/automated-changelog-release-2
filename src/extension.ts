@@ -18,7 +18,11 @@ export function activate(context: vscode.ExtensionContext) {
 		// Display a message box to the user
 		vscode.window.showInformationMessage('Hello World');
 	});
+	context.subscriptions.push(disposable);
 
+	disposable = vscode.commands.registerCommand('automated-changelog-release-2.msgPrantik', () => {
+		vscode.window.showInformationMessage('May Allah bless you.');
+	});
 	context.subscriptions.push(disposable);
 }
 

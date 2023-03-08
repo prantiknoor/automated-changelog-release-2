@@ -16,6 +16,10 @@
       {
         "command": "automated-changelog-release-2.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "automated-changelog-release-2.msgPrantik",
+        "title": "Show Message from Prantik"
       }
     ]
   },
