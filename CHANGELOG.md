@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/1.0.0...1.1.0) (2023-03-08)
+
+
+### Features
+
+* **extension.ts:** a new feature added ([d20464c](https://github.com/prantiknoor/automated-changelog-release-2/commit/d20464c7d585ef4aa2d39f68adee553cfab991a9))
+
 ## [1.0.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.2.2...1.0.0) (2023-03-08)
 
 
