@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.2.2...1.0.0) (2023-03-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* lskdf sldfksalkew wewr
+
+### Bug Fixes
+
+* lkj sldkfk sdlkfj ([56693fb](https://github.com/prantiknoor/automated-changelog-release-2/commit/56693fb9f7762d30705b261129b9f4f2d76cab5a))
+
 ### [0.2.2](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.2.1...0.2.2) (2023-03-08)
 
 
