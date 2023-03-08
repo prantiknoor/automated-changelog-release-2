@@ -1,5 +1,7 @@
 # Changelog
 
+### [1.1.2](https://github.com/prantiknoor/vsce-semantic-release/compare/1.1.1...1.1.2) (2023-03-08)
+
 ### [1.1.1](https://github.com/prantiknoor/vsce-semantic-release/compare/1.1.0...1.1.1) (2023-03-08)
 
 
