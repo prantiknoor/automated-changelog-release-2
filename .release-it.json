@@ -7,7 +7,7 @@
     "publish": false
   },
   "git": {
-    "commitMessage": "Release v${version}"
+    "commitMessage": "✅Release v${version}"
   },
   "plugins": {
     "@release-it/conventional-changelog": {
