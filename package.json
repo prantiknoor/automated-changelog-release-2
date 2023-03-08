@@ -5,7 +5,7 @@
   "repository": "https://github.com/prantiknoor/vsce-semantic-release",
   "license": "MIT",
   "description": "",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.76.0"
   },

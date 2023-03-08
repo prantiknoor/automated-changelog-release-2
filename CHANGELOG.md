@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/prantiknoor/vsce-semantic-release/compare/1.1.0...1.1.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* many things did ([dbf5dde](https://github.com/prantiknoor/vsce-semantic-release/commit/dbf5dde1cc7c2739dfa4e0b08502cc07f29fbda9))
+
 ## [1.1.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/1.0.0...1.1.0) (2023-03-08)
 
 
