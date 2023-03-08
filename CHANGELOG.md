@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.3](https://github.com/prantiknoor/vsce-semantic-release/compare/1.1.2...1.1.3) (2023-03-08)
+
+
+### Bug Fixes
+
+* **extension.ts:** changed msg ([36a40f6](https://github.com/prantiknoor/vsce-semantic-release/commit/36a40f6c30ff0a1bd05121b70a493a61f4993f76))
+
 ### [1.1.2](https://github.com/prantiknoor/vsce-semantic-release/compare/1.1.1...1.1.2) (2023-03-08)
 
 ### [1.1.1](https://github.com/prantiknoor/vsce-semantic-release/compare/1.1.0...1.1.1) (2023-03-08)
