@@ -6,9 +6,7 @@ import * as vscode from 'vscode';
 // Your extension is activated the very first time the command is executed
 export function activate(context: vscode.ExtensionContext) {
 
-	// Use the console to output diagnostic information (console.log) and errors (console.error)
-	// This line of code will only be executed once when your extension is activated
-	console.log('Congratulations, your extension "automated-changelog-release-2" is now active!');
+	console.log('Congratulations, my extension "automated-changelog-release-2" is now active!');
 
 	let disposable = vscode.commands.registerCommand('automated-changelog-release-2.helloWorld', () => {
 		// The code you place here will be executed every time your command is executed
