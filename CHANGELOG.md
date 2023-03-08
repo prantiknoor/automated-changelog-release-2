@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.1.0...0.2.0) (2023-03-08)
+
+
+### Features
+
+* **extension.ts:** a new feature added ([cbe1222](https://github.com/prantiknoor/automated-changelog-release-2/commit/cbe1222aae32263453abd39eb190cfe759264e0b))
+
+
+### Bug Fixes
+
+* **changelog.md:** add header to changelog file ([1a79a01](https://github.com/prantiknoor/automated-changelog-release-2/commit/1a79a01fa7e0db552908c6c43b458ff128ae2023))
+
 ## [0.1.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.0.2...0.1.0) (2023-03-08)
 
 
