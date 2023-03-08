@@ -1,6 +1,9 @@
 {
   "name": "automated-changelog-release-2",
   "displayName": "Automated Changelog Release 2",
+  "publisher": "Prantik",
+  "repository": "https://github.com/prantiknoor/vsce-semantic-release",
+  "license": "MIT",
   "description": "",
   "version": "1.1.0",
   "engines": {
@@ -24,6 +27,7 @@
     ]
   },
   "scripts": {
+    "publish": "vsce publish",
     "vscode:prepublish": "pnpm run compile",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
@@ -42,6 +46,7 @@
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "@vscode/test-electron": "^2.2.3",
+    "@vscode/vsce": "^2.18.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.34.0",
     "glob": "^8.1.0",
