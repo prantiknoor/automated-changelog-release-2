@@ -26,6 +26,7 @@
     "pretest": "pnpm run compile && pnpm run lint",
     "lint": "eslint src --ext ts",
     "test": "node ./out/test/runTest.js",
+    "commit": "git-cz",
     "release": "release-it"
   },
   "devDependencies": {
