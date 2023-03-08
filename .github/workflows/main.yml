@@ -1,0 +1,13 @@
+name: My Release Job
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  my-job:
+    if: github.event_name == 'release'
+    runs-on: ubuntu-latest
+    steps:
+    - name: My Step
+      run: echo "This job ran because a release was created"
