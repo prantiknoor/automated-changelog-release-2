@@ -1,5 +1,7 @@
 # Changelog
 
+### [0.2.1](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.2.0...0.2.1) (2023-03-08)
+
 ## [0.2.0](https://github.com/prantiknoor/automated-changelog-release-2/compare/0.1.0...0.2.0) (2023-03-08)
 
 
